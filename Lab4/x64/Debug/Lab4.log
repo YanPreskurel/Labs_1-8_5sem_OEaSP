@@ -1,0 +1,6 @@
+﻿  Lab4.cpp
+C:\Users\37529\Desktop\Лекции\ОСиСП\Lab4\Lab4\Lab4.cpp(63,15): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+C:\Users\37529\Desktop\Лекции\ОСиСП\Lab4\Lab4\Lab4.cpp(89,31): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\37529\Desktop\Лекции\ОСиСП\Lab4\Lab4\Lab4.cpp(105,31): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+C:\Users\37529\Desktop\Лекции\ОСиСП\Lab4\Lab4\Lab4.cpp(122,31): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+  Lab4.vcxproj -> C:\Users\37529\Desktop\Лекции\ОСиСП\Lab4\Lab4\x64\Debug\Lab4.exe
