@@ -1,0 +1,5 @@
+﻿  Lab5.cpp
+C:\Users\37529\Desktop\Лекции\ОСиСП\Lab5\Lab5\Lab5.cpp(16,112): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\37529\Desktop\Лекции\ОСиСП\Lab5\Lab5\Lab5.cpp(18,118): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\37529\Desktop\Лекции\ОСиСП\Lab5\Lab5\Lab5.cpp(56,124): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  Lab5.vcxproj -> C:\Users\37529\Desktop\Лекции\ОСиСП\Lab5\Lab5\x64\Debug\Lab5.exe
