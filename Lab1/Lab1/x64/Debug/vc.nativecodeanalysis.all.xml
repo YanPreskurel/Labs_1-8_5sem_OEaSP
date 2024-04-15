@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\37529\Desktop\Лекции\ОСиСП\Lab1\Lab1\</FILEPATH>
+      <FILENAME>Lab1.cpp</FILENAME>
+      <LINE>27</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>28251</DEFECTCODE>
+    <DESCRIPTION>Несогласованная аннотация для "wWinMain": данный экземпляр содержит нет аннотаций. См. c:\program files (x86)\windows kits\10\include\10.0.22621.0\um\winbase.h(1046). </DESCRIPTION>
+    <FUNCTION>wWinMain</FUNCTION>
+    <DECORATED>wWinMain</DECORATED>
+    <FUNCLINE>27</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

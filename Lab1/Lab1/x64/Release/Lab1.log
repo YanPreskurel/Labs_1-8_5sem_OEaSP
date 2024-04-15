@@ -1,0 +1,2 @@
+﻿MSVCRT.lib(exe_main.obj) : error LNK2001: неразрешенный внешний символ main.
+C:\Users\37529\Desktop\Лекции\ОСиСП\Lab1\Lab1\x64\Release\Lab1.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
